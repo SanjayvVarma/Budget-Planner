@@ -1,0 +1,58 @@
+.container {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.container__add__item {
+    display: flex;
+    gap: 10rem;
+    justify-content: center;
+
+
+}
+.container__add__form {
+    display: flex;
+    gap: 8rem;
+    justify-content: center;
+    padding: 1rem 0;
+}
+
+.budget__cal__container {
+    display: flex;
+    gap: 5rem;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.budget__clr_name1 {
+    color: #0bf30b;
+    border: 1.5px solid rgb(250, 31, 31);
+    padding: 5px;
+    background-color: gray;
+}
+.budget__clr_name2 {
+    color: #e80909;
+    border: 1.5px solid rgb(225, 246, 0);
+    padding: 5px;
+    background-color: gray;
+}
+.budget__clr_name3 {
+    color: #e8e809;
+    border: 1.5px solid rgb(49, 250, 31);
+    padding: 5px;
+    background-color: gray;
+}
+
+
+.btn__submit{
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+
+  .container__expenses{
+    color: #1e1aeb;
+  }
